@@ -1,0 +1,79 @@
+head{
+    font-family: 'Candal', sans-serif;
+font-family: 'Suez One', serif;
+
+}
+
+h1{
+    font-size: 40px;
+
+}
+div{
+    padding-left: 100px;
+    padding-right: 10px;
+    
+    width: 50%;
+}
+section{
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: radial-gradient(tomato);
+    color: white;
+    font-weight: 400;
+
+}
+p{ 
+    padding:10px 200px 10px 00px;
+text-align: justify;
+}
+h3{
+    font-size: 40px;
+}
+
+footer{
+    font-size: 40px;
+
+    text-align: center;
+}
+#sky-color{
+    text-align: justify;
+   
+    padding-left: 100px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+
+    background-color: rgba(38, 221, 228, 0.61);
+}
+#gren-color{
+    text-align: justify;
+    
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: rgb(117, 209, 117);
+}
+#blue-color{
+    text-align: justify;
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: rgb(212, 143, 201);
+}
+#foter-part{
+    background-color: black;
+    width: 100%;
+}
+.ftrr-part{
+    padding-left: 200px;
+    text-align: center;
+}
+.extra-padin{
+    padding: 00px 70px 70px 70px;
+}
